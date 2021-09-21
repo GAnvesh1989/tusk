@@ -1,0 +1,3 @@
+goto domino pizza
+select new pizza
+order pozza
